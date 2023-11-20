@@ -78,7 +78,8 @@ Da a los usuarios la capacidad de modificar su contraseña de acceso para manten
 
 Facilita a nuevos usuarios la creación de una cuenta en la aplicación del gimnasio, proporcionando la información necesaria y validando la pertenencia a la Universidad de Lima.
 
-![](RackMultipart20231120-1-xgwkik_html_d3cf0632de09977b.png)
+![creacionCuenta](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/3e43cd0d-5980-419f-9a0c-d6ac6ca568ba)
+
 
 4. Mostrar rutina
 
@@ -111,7 +112,9 @@ Permite a los usuarios filtrar la lista de ejercicios según la parte del cuerpo
 ![filtrarEjercicios](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/d343c2c5-ffee-44a1-ab1e-8c353e86ce7b)
 
 9. Más información
+
 Se puede acceder a esta pantalla accediendo al dropmenu donde se encuentran los campos Acerca de , modificar perfil y cerrar sesion.
+
 ![masInformacion](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/7a0e326f-6f89-4cfa-b839-0ff805d21728)
 
 10. Compartir de redes sociales
