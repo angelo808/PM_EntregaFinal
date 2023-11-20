@@ -32,51 +32,51 @@ Los requerimientos no funcionales son aquellas características que no se encuen
 
 Teniendo en cuenta el concepto principal de lo que es un requerimiento no funcional, es momento de analizar nuestro proyecto , el cual , consiste en realizar un aplicativo móvil donde se pueda tener una cuenta y se observe la rutina de ejercicios que se le asignó a dicho usuario. Cada ejercicio de esta lista está totalmente detallado, desde una premisa de texto explicando cómo se realiza el ejercicio hasta un video demostrativo del mismo ejercicio. Sabiendo cómo funciona el programa y los conceptos claros se pasa a declarar los requerimientos no funcionales en diferentes campos.
 
-### *1. Rendimiento del sistema:*
+### *3.1. Rendimiento del sistema:*
 
 Para este campo se requiere que el sistema debe tener un tiempo de carga aceptable, es decir que el sistema no demore en iniciar teniendo un tiempo máximo aceptable. También se debe tener en cuenta el tiempo de respuesta que hay entre la interacción del usuario con el sistema hasta que la aplicación da una respuesta.
 
-### *2. Consumo de recursos*
+### *3.2. Consumo de recursos*
 
 Se debe limitar la cantidad de recursos como la capacidad de procesamiento( CPU), memoria y batería para garantizar un rendimiento eficiente.
 
-### *3. Experiencia del usuario:*
+### *3.3. Experiencia del usuario:*
 
 En este campo se define la calidad de la experiencia del usuario. qué tan cómodo y que tan satisfecho se encuentra al momento de utilizar el aplicativo implementado, la facilidad de uso ,la navegación y el diseño del mismo.
 
-### *4. Disponibilidad del producto:*
+### *3.4. Disponibilidad del producto:*
 
 Para este requerimiento se debe especificar el tiempo máximo de inactividad permitido y la capacidad de recuperación ante algún fallo.
 
-### *5. Tolerancia a fallos:*
+### *3.5. Tolerancia a fallos:*
 
 Describe cómo la aplicación maneja situaciones de error y se recupera de ellas sin afectar la experiencia del usuario.
 
-### *6. Autenticación y autorización:*
+### *3.6. Autenticación y autorización:*
 
 Define los mecanismos de autenticación como lo son el uso de credenciales usuario y contraseña para poder acceder al sistema y a los datos completos con las funcionalidades.
 
-### *7. Protección de datos:*
+### *3.7. Protección de datos:*
 
 Establece pautas para garantizar la privacidad y seguridad de la información del usuario.
 
-### *8. Modularidad del sistema:*
+### *3.8. Modularidad del sistema:*
 
 Facilita la capacidad de modificar , actualizar y ampliar la aplicación sin tener que comprometer otros campos o partes del sistema.
 
-### *9. Correcta documentación:*
+### *3.9. Correcta documentación:*
 
 Proporciona una documentación clara y completa para facilitar el mantenimiento del aplicativo por parte de cualquier equipo de desarrollo.
 
-### *10. Compatibilidad con los sistemas operativos:*
+### *3.10. Compatibilidad con los sistemas operativos:*
 
 Indicar qué dispositivos y versiones del sistema operativo son compatibles con la aplicación que se está implementando.
 
-# 3. **Diagrama de casos de uso (requerimientos funcionales)**
+# 4. **Diagrama de casos de uso (requerimientos funcionales)**
 
 ![diagramaCasosUso](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/0dd8cee5-ef39-43ef-9e67-ad729f38eaf1)
 
-Descripción de casos de uso (incluye mockups)
+# 5. **Descripción de casos de uso (incluye mockups)**
 
 ### *1.Acceso al sistema:*
 
