@@ -18,7 +18,8 @@
  Flutter es un marco de desarrollo de código abierto creado por Google para la creación de aplicaciones móviles. Utilizando el lenguaje de programación Dart, Flutter permite a los desarrolladores construir interfaces de usuario atractivas y fluidas que funcionan de manera consistente en iOS y Android. Una de las características destacadas de Flutter es su enfoque en la creación de interfaces de usuario mediante la composición de widgets personalizables, lo que facilita la construcción de aplicaciones visualmente atractivas y receptivas. Además, Flutter ofrece un rendimiento optimizado al aprovechar la compilación anticipada, y su naturaleza de código único facilita el mantenimiento y la actualización de aplicaciones en múltiples plataformas.
  
  Para instalar Flutter en Android Studio, primero, descargar e instalar Android Studio desde el sitio oficial. Luego, abra Android Studio y acceda al menú "Configuración" para instalar el complemento Flutter y Dart. Descargue el SDK de Flutter y establezca la variable de entorno PATH para apuntar al directorio "bin" del SDK. En Android Studio, crear un nuevo proyecto Flutter y configurar la ubicación del SDK. Finalmente, ejecute "flutter doctor" en la terminal para asegurarse de que todo esté configurado correctamente. Este proceso garantiza una configuración adecuada para el desarrollo de aplicaciones Flutter en Android Studio.
- 
+
+ <span style="color: blue;"> probando texto de color azul. </span>
  Diagrama de despliegue
 
 ![diagramaDespliegue](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/b232481a-4b1d-4c8b-a313-f4f5fc5ace95)
