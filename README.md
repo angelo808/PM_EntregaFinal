@@ -1,4 +1,4 @@
-################################################################################################################################
+########################################################################################################
 
 # **Asignación numero 4.**
 # **Creación archivo markdown en github.**
@@ -9,7 +9,7 @@
  ### - *Meneses Gutierrez Hector Jose*
  ### - *Sotelo Gomez Franco*
 
-################################################################################################################################
+########################################################################################################
 
 
 
@@ -78,74 +78,74 @@ Indicar qué dispositivos y versiones del sistema operativo son compatibles con 
 
 # 5. **Descripción de casos de uso (incluye mockups)**
 
-### *1.Acceso al sistema:*
+### *5.1.Acceso al sistema:*
 
 Permite a los usuarios autenticarse en la aplicación con sus credenciales de la Universidad de Lima, brindándoles acceso personalizado a sus datos y funcionalidades.
 
 ![ingreso](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/07fd85d5-038c-4548-88cb-ebe3ed50c057)
 
-### *2. Cambio de contraseña*
+### *5.2. Cambio de contraseña*
 
 Da a los usuarios la capacidad de modificar su contraseña de acceso para mantener la seguridad de su cuenta.
 
 ![cambioPassword](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/8419d331-ea4b-48d3-9c7f-72eb724d014f)
 
-### *3. Crear una cuenta*
+### *5.3. Crear una cuenta*
 
 Facilita a nuevos usuarios la creación de una cuenta en la aplicación del gimnasio, proporcionando la información necesaria y validando la pertenencia a la Universidad de Lima.
 
 ![creacionCuenta](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/3e43cd0d-5980-419f-9a0c-d6ac6ca568ba)
 
 
-### *4. Mostrar rutina*
+### *5.4. Mostrar rutina*
 
 Muestra la rutina de ejercicios asignada a un usuario específico, detallando los ejercicios, repeticiones y series planificadas.
 
 ![miRutina](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/a6c2de85-3554-4cb1-b87f-15aaa8fc57b4)
 
-### *5. Filtrar ejercicios de rutina*
+### *5.5. Filtrar ejercicios de rutina*
 
 ermite a los usuarios filtrar la lista de ejercicios según la parte del cuerpo que deseen trabajar, facilitando la personalización de sus rutinas de entrenamiento.
 
 ![filtrarEjercicios](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/d343c2c5-ffee-44a1-ab1e-8c353e86ce7b)
 
-### *6. Mostrar ejercicios de rutina*
+### *5.6. Mostrar ejercicios de rutina*
 
 Proporciona detalles específicos de cada ejercicio dentro de la rutina, incluyendo videos instructivos y explicaciones detalladas para una ejecución correcta.
 
 ![detalleMiejercicio](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/39c69b4e-aac0-463a-b6d0-aa47418f656c)
 
-### *7. Mostrar ejercicios*
+### *5.7. Mostrar ejercicios*
 
 Similar al caso anterior, pero accedido desde la sección general de ejercicios en lugar de la rutina personalizada.
 
 ![listaEjercicios](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/137028c8-523a-4dab-96bd-f8eb3b3a5b0a)
 
-### *8. Filtrar ejercicios*
+### *5.8. Filtrar ejercicios*
 
 Permite a los usuarios filtrar la lista de ejercicios según la parte del cuerpo que deseen trabajar, facilitando la personalización de sus rutinas de entrenamiento.
 
 ![filtrarEjercicios](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/d343c2c5-ffee-44a1-ab1e-8c353e86ce7b)
 
-### *9. Más información*
+### *5.9. Más información*
 
 Se puede acceder a esta pantalla accediendo al dropmenu donde se encuentran los campos Acerca de , modificar perfil y cerrar sesion.
 
 ![masInformacion](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/7a0e326f-6f89-4cfa-b839-0ff805d21728)
 
-### *10. Compartir de redes sociales*
+### *5.10. Compartir de redes sociales*
 
 ​​Permite a los usuarios compartir sus logros, rutinas o ejercicios favoritos en redes sociales, fomentando la interacción social y la motivación entre los miembros del gimnasio.
 
 ![compartir](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/50561177-06f8-4c42-97a9-0824ea213f80)
 
-### *11. Mostrar integrantes*
+### *5.11. Mostrar integrantes*
 
 Presenta una lista de los miembros del gimnasio que forman parte de un grupo específico, fomentando la comunidad y la colaboración en el logro de objetivos de acondicionamiento físico.
 
 ![mostrarIntegrantes](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/76096d06-8859-4747-ae25-ccc05748246f)
 
-### *12. Actualizar perfil*
+### *5.12. Actualizar perfil*
 
 Permite a los usuarios modificar y mantener actualizada su información personal, preferencias y objetivos de entrenamiento en su perfil de la aplicación.
 
