@@ -1,4 +1,4 @@
-Breve explicación del entorno de desarrollo
+#Breve explicación del entorno de desarrollo
 
 Flutter es un marco de desarrollo de código abierto creado por Google para la creación de aplicaciones móviles. Utilizando el lenguaje de programación Dart, Flutter permite a los desarrolladores construir interfaces de usuario atractivas y fluidas que funcionan de manera consistente en iOS y Android. Una de las características destacadas de Flutter es su enfoque en la creación de interfaces de usuario mediante la composición de widgets personalizables, lo que facilita la construcción de aplicaciones visualmente atractivas y receptivas. Además, Flutter ofrece un rendimiento optimizado al aprovechar la compilación anticipada, y su naturaleza de código único facilita el mantenimiento y la actualización de aplicaciones en múltiples plataformas.
 
