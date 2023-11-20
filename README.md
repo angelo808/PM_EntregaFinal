@@ -110,19 +110,23 @@ Permite a los usuarios filtrar la lista de ejercicios según la parte del cuerpo
 
 ![filtrarEjercicios](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/d343c2c5-ffee-44a1-ab1e-8c353e86ce7b)
 
-9. Compartir de redes sociales
+9. Más información
+Se puede acceder a esta pantalla accediendo al dropmenu donde se encuentran los campos Acerca de , modificar perfil y cerrar sesion.
+![masInformacion](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/7a0e326f-6f89-4cfa-b839-0ff805d21728)
+
+10. Compartir de redes sociales
 
 ​​Permite a los usuarios compartir sus logros, rutinas o ejercicios favoritos en redes sociales, fomentando la interacción social y la motivación entre los miembros del gimnasio.
 
 ![compartir](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/50561177-06f8-4c42-97a9-0824ea213f80)
 
-10. Mostrar integrantes
+11. Mostrar integrantes
 
 Presenta una lista de los miembros del gimnasio que forman parte de un grupo específico, fomentando la comunidad y la colaboración en el logro de objetivos de acondicionamiento físico.
 
 ![mostrarIntegrantes](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/76096d06-8859-4747-ae25-ccc05748246f)
 
-11. Actualizar perfil
+12. Actualizar perfil
 
 Permite a los usuarios modificar y mantener actualizada su información personal, preferencias y objetivos de entrenamiento en su perfil de la aplicación.
 
