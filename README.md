@@ -58,7 +58,7 @@ Indicar qué dispositivos y versiones del sistema operativo son compatibles con 
 
 Diagrama de casos de uso (requerimientos funcionales)
 
-![](RackMultipart20231120-1-xgwkik_html_671a66c3b9ad5e10.png)
+![diagramaCasosUso](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/0dd8cee5-ef39-43ef-9e67-ad729f38eaf1)
 
 Descripción de casos de uso (incluye mockups)
 
@@ -68,62 +68,62 @@ Permite a los usuarios autenticarse en la aplicación con sus credenciales de la
 
 ![ingreso](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/07fd85d5-038c-4548-88cb-ebe3ed50c057)
 
-1. Cambio de contraseña
+2. Cambio de contraseña
 
 Da a los usuarios la capacidad de modificar su contraseña de acceso para mantener la seguridad de su cuenta.
 
 ![cambioPassword](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/8419d331-ea4b-48d3-9c7f-72eb724d014f)
 
-1. Crear una cuenta
+3. Crear una cuenta
 
 Facilita a nuevos usuarios la creación de una cuenta en la aplicación del gimnasio, proporcionando la información necesaria y validando la pertenencia a la Universidad de Lima.
 
 ![](RackMultipart20231120-1-xgwkik_html_d3cf0632de09977b.png)
 
-1. Mostrar rutina
+4. Mostrar rutina
 
 Muestra la rutina de ejercicios asignada a un usuario específico, detallando los ejercicios, repeticiones y series planificadas.
 
-![](RackMultipart20231120-1-xgwkik_html_840d4436488892b1.png)
+![miRutina](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/a6c2de85-3554-4cb1-b87f-15aaa8fc57b4)
 
-1. Filtrar ejercicios de rutina
+5. Filtrar ejercicios de rutina
 
 ermite a los usuarios filtrar la lista de ejercicios según la parte del cuerpo que deseen trabajar, facilitando la personalización de sus rutinas de entrenamiento.
 
-![](RackMultipart20231120-1-xgwkik_html_e4b2f81588d1a0c7.png)
+![filtrarEjercicios](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/d343c2c5-ffee-44a1-ab1e-8c353e86ce7b)
 
-1. Mostrar ejercicios de rutina
+6. Mostrar ejercicios de rutina
 
 Proporciona detalles específicos de cada ejercicio dentro de la rutina, incluyendo videos instructivos y explicaciones detalladas para una ejecución correcta.
 
-![](RackMultipart20231120-1-xgwkik_html_cb688a4ed2dc7977.png)
+![detalleMiejercicio](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/39c69b4e-aac0-463a-b6d0-aa47418f656c)
 
-1. Mostrar ejercicios
+7. Mostrar ejercicios
 
 Similar al caso anterior, pero accedido desde la sección general de ejercicios en lugar de la rutina personalizada.
 
-![](RackMultipart20231120-1-xgwkik_html_4aa57fe45e8fbe00.png)
+![listaEjercicios](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/137028c8-523a-4dab-96bd-f8eb3b3a5b0a)
 
-1. Filtrar ejercicios
+8. Filtrar ejercicios
 
 Permite a los usuarios filtrar la lista de ejercicios según la parte del cuerpo que deseen trabajar, facilitando la personalización de sus rutinas de entrenamiento.
 
-![](RackMultipart20231120-1-xgwkik_html_154221a686344315.png)
+![filtrarEjercicios](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/d343c2c5-ffee-44a1-ab1e-8c353e86ce7b)
 
-1. Compartir de redes sociales
+9. Compartir de redes sociales
 
 ​​Permite a los usuarios compartir sus logros, rutinas o ejercicios favoritos en redes sociales, fomentando la interacción social y la motivación entre los miembros del gimnasio.
 
-![](RackMultipart20231120-1-xgwkik_html_57c024772070e0ae.png)
+![compartir](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/50561177-06f8-4c42-97a9-0824ea213f80)
 
-1. Mostrar integrantes
+10. Mostrar integrantes
 
 Presenta una lista de los miembros del gimnasio que forman parte de un grupo específico, fomentando la comunidad y la colaboración en el logro de objetivos de acondicionamiento físico.
 
-![](RackMultipart20231120-1-xgwkik_html_9cc6d0b5014af049.png)
+![mostrarIntegrantes](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/76096d06-8859-4747-ae25-ccc05748246f)
 
-1. Actualizar perfil
+11. Actualizar perfil
 
 Permite a los usuarios modificar y mantener actualizada su información personal, preferencias y objetivos de entrenamiento en su perfil de la aplicación.
 
-![](RackMultipart20231120-1-xgwkik_html_fb5cb66c038f7ec.png)
+![actualizarPerfil](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/6aea6671-294b-457d-9d83-e8100c3cad30)
