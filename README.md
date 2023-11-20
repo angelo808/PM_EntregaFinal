@@ -66,13 +66,13 @@ Descripción de casos de uso (incluye mockups)
 
 Permite a los usuarios autenticarse en la aplicación con sus credenciales de la Universidad de Lima, brindándoles acceso personalizado a sus datos y funcionalidades.
 
-![](RackMultipart20231120-1-xgwkik_html_1eabfc58a58e15d0.png)
+![ingreso](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/07fd85d5-038c-4548-88cb-ebe3ed50c057)
 
 1. Cambio de contraseña
 
 Da a los usuarios la capacidad de modificar su contraseña de acceso para mantener la seguridad de su cuenta.
 
-![](RackMultipart20231120-1-xgwkik_html_3b533d8cfb060e73.png)
+![cambioPassword](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/8419d331-ea4b-48d3-9c7f-72eb724d014f)
 
 1. Crear una cuenta
 
