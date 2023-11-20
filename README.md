@@ -6,7 +6,8 @@ Para instalar Flutter en Android Studio, primero, descargar e instalar Android S
 
 Diagrama de despliegue
 
-![](RackMultipart20231120-1-xgwkik_html_89ad3fe480f7d175.png)
+![diagramaDespliegue](https://github.com/angelo808/PM_EntregaFinal/assets/79600376/b232481a-4b1d-4c8b-a313-f4f5fc5ace95)
+
 
 Requerimientos no funcionales
 
